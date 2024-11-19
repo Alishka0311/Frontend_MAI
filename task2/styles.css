@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f8ff; /
+}
+header {
+    background-color: rgb(213, 177, 233);
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 20px;
+
+}

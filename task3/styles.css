@@ -1,0 +1,53 @@
+body {
+    background-color: #f0f8ff; /
+}
+header {
+    background-color: rgb(195, 145, 101);
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 20px;
+
+}
+
+.card-container{
+    display: flex;
+    padding: 20px;
+
+
+}
+.card{
+    background-color: blanchedalmond;
+    margin: 100px; 
+    margin-top: 0;
+    width: 100%; /* Ширина карточки */
+    border: 1px solid #ccc;
+    box-shadow: 30px 20px 13px rgba(0, 0, 0, 0.1); 
+
+}
+button{
+    background-color: rgb(244, 143, 20);
+    border: none;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 15px;
+    
+
+}
+.card-content{
+    display: flex;
+}
